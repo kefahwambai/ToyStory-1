@@ -1,3 +1,5 @@
+INTRODUCTION
+
 Challenge 1: Student Grade Generator (Toy Problem)
 
 Write a function that prompts the user to input student marks. The input should be between 0 and 100. The output should correspond the correct grade, as shown below: 
@@ -17,3 +19,17 @@ Write a program that takes the speed of a car as input e.g 80. If the speed is l
 Challenge 3: Net Salary Calculator (Toy Problem)
 
 Write a program whose major task is to calculate an individual’s Net Salary by getting the inputs of basic salary and benefits. Calculate the payee (i.e. Tax), NHIF Deductions, NSSF Deductions, gross salary, and net salary.
+
+NB: Use KRA, NHIF, and NSSF values provided in the link below.
+
+- https://www.aren.co.ke/payroll/taxrates.htm Links to an external site.
+
+ Links to an external site.-  Links to an external site.Links to an external site.
+
+- www.kra.go.ke/en/individual/calculate-tax/calculating-tax/payeLinks to an external site.
+# Requirement
+- JavaScript
+# Installation
+- git clone git@github.com:kefahwambai/ToyStory-1.git
++ cd ToyStory
+* code .
